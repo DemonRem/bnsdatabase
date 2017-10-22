@@ -1,0 +1,35 @@
+{
+  "010002": {
+    "code": "010002",
+    "notFound": [
+      "texture:[skeleton:00005710,texture:null]",
+      "texture:[skeleton:00006959,texture:null]",
+      "texture:[skeleton:00006960,texture:null]",
+      "texture:[skeleton:00006961,texture:null]",
+      "texture:[skeleton:00006962,texture:null]",
+      "texture:[skeleton:00006964,texture:null]"
+    ],
+    "invalid": []
+  },
+  "040001": {
+    "code": "040001",
+    "notFound": [
+      "texture:[skeleton:00007157,texture:null]"
+    ],
+    "invalid": []
+  },
+  "050002": {
+    "code": "050002",
+    "notFound": [
+      "texture:[skeleton:00007160,texture:null]"
+    ],
+    "invalid": []
+  },
+  "060003": {
+    "code": "060003",
+    "notFound": [
+      "texture:[skeleton:00009857,texture:null]"
+    ],
+    "invalid": []
+  }
+}
